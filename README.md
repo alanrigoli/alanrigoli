@@ -10,7 +10,7 @@
 
 ### Técnologias que estudo e uso no dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrigoli&layout=compact)](https://github.com/alanrigoli/github-readme-stats)
+[![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrigoli&layout=compact)](https://github.com/alanrigoli/github-readme-stats)
 
 <div style="display: inline-block"><br>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
